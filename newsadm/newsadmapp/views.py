@@ -112,7 +112,8 @@ def newsadd(request):  #新增資料
 
 def newsedit(request, newsid=None, edittype=None):  #修改資料
 	unit = models.NewsUnit.objects.get(id=newsid)  #讀取指定資料
-	categories = ["公告", "更新", "活動", "其他"]
+	categories = ["資料結構", "大數據分析", "人工智慧", "計算機組織","計算機圖學","編譯器系統","線性代數","微積分","離散數學"]
+
 	if edittype == None:  #進入修改頁面,顯示原有資料
 		type = unit.catego
 		subject = unit.title

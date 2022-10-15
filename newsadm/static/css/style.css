@@ -171,9 +171,9 @@ table tr td a:hover { color:#F60;}
 .boxLogin {
 	width: 700px;
 	margin: auto;
-	margin-top: 100px;
+	margin-top: 200px;
 	padding: 0px;
-	background-image: url(images/adminlogin_bg.png);
+	background-image: url(images/code.jpeg);
 }
 
 .boxLogin  div.fields {
