@@ -16,16 +16,7 @@
 
 
 
-# 使用到的技術為 
-* Django 3.0 web framework
-* python 3.8 
-* git 
-* ngrok 
-* bootstrap 
-* html
-* css 
-* MTV 架站框架 
-* SQLite 資料庫
+
 
 
 # 網站Demo 
@@ -61,3 +52,13 @@
 ![](https://github.com/maxchen0102/Collaborative-Writing-System/blob/a3718ea9f7172cae6d93feae233b2cc90e7288c1/5.png)
 
 
+# 使用到的技術為 
+* Django 3.0 web framework
+* python 3.8 
+* git 
+* ngrok 
+* bootstrap 
+* html
+* css 
+* MTV 架站框架 
+* SQLite 資料庫
