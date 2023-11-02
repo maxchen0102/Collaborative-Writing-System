@@ -27,29 +27,30 @@
 * MTV 架站框架 
 * SQLite 資料庫
 
+
 # 網站Demo 
 下圖為系統首頁，可以看到本學期所有課程的課程公告。 
 同學可以根據課程分類，點進去查看最新公告。
 點選右上角的鎖頭，可以進入管理員模式，進行編輯。
 
-![](https://hackmd.io/_uploads/SJ8CRDHZa.png)
+![](https://github.com/maxchen0102/Collaborative-Writing-System/blob/a3718ea9f7172cae6d93feae233b2cc90e7288c1/1.png)
 
 每一篇文章如下圖所示，會有每一個課程的重要公告，且有發布者名稱，以及課程分類，還有主旨和內文，方便同學快速了解。
 
 
-![](https://hackmd.io/_uploads/SJCaJ_SW6.png)
+![](https://github.com/maxchen0102/Collaborative-Writing-System/blob/a3718ea9f7172cae6d93feae233b2cc90e7288c1/2.png)
 
 
 
 如要進入管理員模式，則點選鎖頭後，會需要登入帳號密碼。
 
-![](https://hackmd.io/_uploads/HkFUZrBWa.png)
+![](https://github.com/maxchen0102/Collaborative-Writing-System/blob/a3718ea9f7172cae6d93feae233b2cc90e7288c1/3.png)
 
 登入後，可以到後台畫面，可以點選鎖頭旁邊的筆記本進行新增文章，
 也可以點選文章旁邊的編輯來進行修改，或是紅色的刪除按鈕來刪除文章。
 
 
-![](https://hackmd.io/_uploads/S1Gcy_B-T.png)
+![](https://github.com/maxchen0102/Collaborative-Writing-System/blob/a3718ea9f7172cae6d93feae233b2cc90e7288c1/4.png)
 
 
 
@@ -57,6 +58,6 @@
 點入新增文章畫面的時候，可以新增文章，這邊可以選則課程分類，並輸入標題，編輯者，和內容。
 新增完成後，即可供全部同學瀏覽。
 
-![](https://hackmd.io/_uploads/ryaMFBBWa.png)
+![](https://github.com/maxchen0102/Collaborative-Writing-System/blob/a3718ea9f7172cae6d93feae233b2cc90e7288c1/5.png)
 
 
